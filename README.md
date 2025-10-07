@@ -183,7 +183,7 @@ npm run dev
 
 ## 14. First 15-minute deliverables
 
-1. This documentation file (`INVOICING_ROI_SIMULATOR_PLAN.md`). ✅
+1. This documentation file (`INVOICING_ROI_SIMULATOR_PLAN.md`).
 2. Flask setup with `/simulate` endpoint and MongoDB connection.
 3. Vite + React boilerplate with input form & fetch integration.
 
